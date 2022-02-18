@@ -39,5 +39,7 @@ If you are interested in Mark-ME or as an AI/Tech/Maths blog writer or enthusias
 <img src="./screenshots/img/me_wechat_scan_search_white.png" width="300px">
 
 Some posts are published to following sites.
-[Myencyclopedia blog](https://myencyclopedia.top/blog/)
-[Myencyclopedia blog github.io](https://myencyclopedia.github.io/)
+
+[Myencyclopedia blog @ https://myencyclopedia.top/blog/](https://myencyclopedia.top/blog/)
+
+[Github.io replhttps://myencyclopedia.github.io/](https://myencyclopedia.github.io/)
