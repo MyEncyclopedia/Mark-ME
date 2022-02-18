@@ -3,6 +3,10 @@
 Since typora is not free anymore,`Mark-ME` aims to be free electron Markdown editor on all platforms (Windows, Mac, Linux), though not open-sourced at the moment.
 Mark-ME is intended not only for composing markdown files but also for platform of writing Latex and formatting and publishing to Wechat, Toutiao, Medium, Bilibili etc. It's in very early stage. If you like it, pls star it. Any feature requests, pls leave issues in github.
 
+## Downloads
+
+[Release 0.1.0 · MyEncyclopedia/Mark-ME · GitHub](https://github.com/MyEncyclopedia/Mark-ME/releases/tag/0.1.0)
+
 ## Screenshots
 
 ![Mark-ME 0.0.1](./screenshots/0.1.0/main.png)
@@ -27,3 +31,7 @@ Mark-ME is intended not only for composing markdown files but also for platform 
 - Inline mathjax
 - **Latex full fledge editor**
 - **Immense Editing** like typora
+
+## Wechat Channel
+If you are interested in Mark-ME or as an AI/Tech/Maths blog writer or enthusiastic, welcome to subscribe to my wechat channel.
+![Wechat MyEncyclopedia](./screenshots/img/me_wechat_scan_search_white.png)
