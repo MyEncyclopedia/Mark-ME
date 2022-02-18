@@ -35,6 +35,9 @@ Mark-ME is intended not only for composing markdown files but also for platform 
 ## Wechat Channel
 
 If you are interested in Mark-ME or as an AI/Tech/Maths blog writer or enthusiastic, welcome to subscribe to my wechat channel.
-![Wechat MyEncyclopedia]()
 
 <img src="./screenshots/img/me_wechat_scan_search_white.png" width="300px">
+
+Some posts are published to following sites.
+[Myencyclopedia blog](https://myencyclopedia.top/blog/)
+[Myencyclopedia blog github.io](https://myencyclopedia.github.io/)
