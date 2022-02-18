@@ -42,4 +42,4 @@ Some posts are published to following sites.
 
 [Myencyclopedia blog @ https://myencyclopedia.top/blog/](https://myencyclopedia.top/blog/)
 
-[Github.io replhttps://myencyclopedia.github.io/](https://myencyclopedia.github.io/)
+[Github.io replicate @ https://myencyclopedia.github.io/](https://myencyclopedia.github.io/)
