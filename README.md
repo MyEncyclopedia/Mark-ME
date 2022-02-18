@@ -33,5 +33,8 @@ Mark-ME is intended not only for composing markdown files but also for platform 
 - **Immense Editing** like typora
 
 ## Wechat Channel
+
 If you are interested in Mark-ME or as an AI/Tech/Maths blog writer or enthusiastic, welcome to subscribe to my wechat channel.
-![Wechat MyEncyclopedia](./screenshots/img/me_wechat_scan_search_white.png)
+![Wechat MyEncyclopedia]()
+
+<img src="./screenshots/img/me_wechat_scan_search_white.png" width="300px">
