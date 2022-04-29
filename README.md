@@ -14,47 +14,47 @@ Mark-ME is intended not only for composing markdown files but also for platform 
 ## 基本功能
 ![](./screenshots/0.3.0/menu.gif)
 
-![](README/zoom.gif)
+![](./screenshots/0.3.0/zoom.gif)
 
 ## Markdown 显示
 
 
 ### 图片显示
 
-![](README/func_image.png)
+![](./screenshots/0.3.0/func_image.png)
 
 ### 代码高亮
 
-![](README/func_code.png)
+![](./screenshots/0.3.0/func_code.png)
 
 ### 数学公式
 
-![](README/func_math.png)
+![](./screenshots/0.3.0/func_math.png)
 
 ###  Html 标签
 
-![](README/func_html.png)
+![](./screenshots/0.3.0/func_html.png)
 
 
 ## 兼容 mdnice 样式导出微信公众号
-![](README/wechat_style.gif)
+![](./screenshots/0.3.0/wechat_style.gif)
 
 ## 下载远程图片到本地
-![](README/download_img.gif)
+![](./screenshots/0.3.0/download_img.gif)
 
 ## 通过 PicGo 上传本地图片到图床
 
-![](README/upload_img.gif)
+![](./screenshots/0.3.0/upload_img.gif)
 
 ## Mathpix 图片转 Latex
 
-![](README/mathpix.gif)
+![](./screenshots/0.3.0/mathpix.gif)
 
 ## 其他
 
-![](README/option.png)
+![](./screenshots/0.3.0/option.png)
 
-![](README/reg.png)
+![](./screenshots/0.3.0/reg.png)
 
 
 
