@@ -9,17 +9,58 @@ Mark-ME is intended not only for composing markdown files but also for platform 
 
 ## Screenshots
 
-![Mark-ME 0.0.1](./screenshots/0.1.0/main.png)
 
-## Supported Features.
 
-- Mathjax Block
-- Code Block
-- Copy as HTML
-- Tables
-- Remote Images
-- Links
-- Drag Drop File
+## 基本功能
+![](./screenshots/0.3.0/menu.gif)
+
+![](README/zoom.gif)
+
+## Markdown 显示
+
+
+### 图片显示
+
+![](README/func_image.png)
+
+### 代码高亮
+
+![](README/func_code.png)
+
+### 数学公式
+
+![](README/func_math.png)
+
+###  Html 标签
+
+![](README/func_html.png)
+
+
+## 兼容 mdnice 样式导出微信公众号
+![](README/wechat_style.gif)
+
+## 下载远程图片到本地
+![](README/download_img.gif)
+
+## 通过 PicGo 上传本地图片到图床
+
+![](README/upload_img.gif)
+
+## Mathpix 图片转 Latex
+
+![](README/mathpix.gif)
+
+## 其他
+
+![](README/option.png)
+
+![](README/reg.png)
+
+
+
+
+
+### Drag Drop File
 
 ## Roadmap
 
