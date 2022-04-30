@@ -8,11 +8,6 @@ Mark-ME is intended not only for composing markdown files but also for platform 
 [Release v0.3.0 · MyEncyclopedia/Mark-ME · GitHub](https://github.com/MyEncyclopedia/Mark-ME/releases/tag/v0.3.0)
 
 
-
-[中文手册](README_zh.md)
-
-
-
 ## 基本功能
 ![](./screenshots/0.3.0/menu.gif)
 
